@@ -1,9 +1,11 @@
 ## code-refractor-horiseon
 HTML/CSS Challenge
-
+[Deployed page](https://roguestorm7.github.io/1st-challenge/)
 
 ## Objective
 Refactor an existing website to optimized for search engines, and make it more accessible.
+
+![Horiseion website image](./images/challenge-picture.png)
 
 ## Part 1:Modify HTML
 
